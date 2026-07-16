@@ -1,0 +1,6 @@
+{
+  "name": "Knowledge Time Machine",
+  "description": "An interactive AI-powered Git forensic workspace helping engineering teams understand WHY code changed. Reconstructs chronological decision timelines across Issues, Pull Requests, Commits, and CI logs using Semantic Graphs and Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
